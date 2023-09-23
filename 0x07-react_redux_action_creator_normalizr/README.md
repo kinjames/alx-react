@@ -91,7 +91,7 @@ To use the MenConnect platform, follow these steps:
 
 ## Contributing
 
-We welcome contributions from the community to improve MenConnect. If you have suggestions or want to report issues, please visit our [GitHub repository] to submit feedback or contribute code.
+We welcome contributions from the community to improve MenConnect. If you have suggestions or want to report issues, please visit our [GitHub repository] to submit feedback or contribute code. Thank You.
 
 ## License
 
